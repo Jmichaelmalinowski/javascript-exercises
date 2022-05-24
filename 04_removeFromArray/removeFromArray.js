@@ -1,4 +1,5 @@
-const removeFromArray = function() {
+const removeFromArray = function (arr, val) {
+    // let array = arr.includes(val);
 
 };
 
